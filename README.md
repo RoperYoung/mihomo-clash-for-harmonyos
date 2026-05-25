@@ -11,7 +11,6 @@
 请前往本项目的 [GitHub Releases](https://github.com/RoperYoung/clash-mihomo-for-haymonyos/releases) 页面下载最新版 APK：
 
 - 下载最新的 APK 文件。
-- 如 Release 附带 `SHA256SUMS`，可用于校验下载文件完整性。
 - 每个版本的具体文件名、版本号和校验值以对应 Release 页面为准。
 
 ## 核心特性
