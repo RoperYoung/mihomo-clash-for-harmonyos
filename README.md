@@ -45,6 +45,4 @@
 - 签名状态：APK Signature Scheme v1/v2 校验通过。
 - 运行环境需要支持 APK 安装及 Android 兼容能力，实际体验可能受设备型号、系统版本和安装器版本影响。
 
-## 项目定位
 
-本项目目标是为 HarmonyOS 用户提供一个清晰、可校验、便于下载的 mihomo 内核 APK 发布入口，并在 HarmonyOS 操作系统上提供完整可用的 mihomo 使用体验。仓库本身不建议存放 APK 历史版本，历史版本应统一放在 GitHub Releases 中。
