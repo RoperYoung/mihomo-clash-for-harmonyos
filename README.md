@@ -41,7 +41,7 @@
 ## 兼容说明
 
 - 推荐系统：HarmonyOS 6.0 及以上。
-- 推荐安装器：卓易通（Zotong）。
+- 推荐安装器：卓易通。
 - Android SDK 信息：`minSdkVersion 21`，`targetSdkVersion 35`。
 - 签名状态：APK Signature Scheme v1/v2 校验通过。
 - 运行环境需要支持 APK 安装及 Android 兼容能力，实际体验可能受设备型号、系统版本和安装器版本影响。
