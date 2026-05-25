@@ -8,7 +8,7 @@
 
 ## 下载
 
-请前往本项目的 [GitHub Releases](https://github.com/RoperYoung/mihomo-clash-for-harmonyos/releases) 页面下载最新版 APK：
+请前往本项目的 [GitHub Releases](https://github.com/RoperYoung/clash-mihomo-for-haymonyos/releases) 页面下载最新版 APK：
 
 - 下载最新的 APK 文件。
 - 如 Release 附带 `SHA256SUMS`，可用于校验下载文件完整性。
